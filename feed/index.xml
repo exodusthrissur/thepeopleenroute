@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
+
 <channel>
-	<title>
-	Comments for The People Enroute	</title>
-	<atom:link href="http://localhost/comments/feed/" rel="self" type="application/rss+xml" />
+	<title>The People Enroute</title>
+	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>/thepeopleenroute/</link>
 	<description>A band with a mission to instill hope</description>
 	<lastBuildDate></lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/thepeopleenroute/wp-content/uploads/2022/11/People-Enroute-Logo-PNG-edited-150x150.png</url>
+	<title>The People Enroute</title>
+	<link>/thepeopleenroute/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
